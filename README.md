@@ -45,4 +45,22 @@ venv/scripts/activate #En windows
 
 ![image](https://github.com/Nelrios/TP-final-Python/assets/129917302/934d41a7-b8b7-45fb-9b6a-52592189e600)
 
+10. Hacer una actualización del pip de python.
+
+![image](https://github.com/Nelrios/TP-final-Python/assets/129917302/a447b459-4d7e-4b99-8712-ecbdf9b8c8a2)
+
+11.  ¿Que es el pip y porqué se tiene que actualizar?
+ pip es una herramienta esencial en el ecosistema de Python que permite la instalación y gestión de paquetes de software.
+ pip, que significa "Pip Installs Packages" o "Pip Installs Python", es el sistema de gestión de paquetes oficial para Python. Facilita la instalación de paquetes desde el Python Package Index (PyPI) y otras fuentes, haciendo que la gestión de dependencias en proyectos de Python sea más eficiente y organizada.
+ Actualizar pip es crucial por varias razones:
+1)Seguridad:
+.Parcheo de Vulnerabilidades: Las actualizaciones de pip a menudo incluyen parches para vulnerabilidades de seguridad. Utilizar una versión desactualizada puede dejar el entorno de desarrollo expuesto a riesgos.
+.Protección contra Dependencias Maliciosas.
+2)
+
+12.   Hacer el primer commit de este trabajo y unirlo al repositorio remoto.
+![image](https://github.com/Nelrios/TP-final-Python/assets/129917302/fb5d1653-52df-45df-af14-82c504032df8)
+![image](https://github.com/Nelrios/TP-final-Python/assets/129917302/67d71aef-92b5-4309-9563-96c3f3292b66)
+
+13.   Enviar el enlace del repositorio remoto donde tiene que tener un readme.md con todos los detalles que les fuí mostrando en comandos, y las respuestas del punto 11  de más arriba
    
